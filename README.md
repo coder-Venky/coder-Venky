@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python,DataScience,Machine Learning, AI**
 
-- 📫 How to reach me **venkateswararaopamujula2000@gmail.com**
+- 📫 How to reach me **venkateswararaopamujula@gmail.com**
 
 - 📄 Know about my experiences [https://crimson-grazia-80.tiiny.site/](https://crimson-grazia-80.tiiny.site/)
 
