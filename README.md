@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **venkateswararaopamujula@gmail.com**
 
-- 📄 Know about my experiences [https://crimson-grazia-80.tiiny.site/](https://crimson-grazia-80.tiiny.site/)
+- 📄 Know about my experiences [https://crimson-grazia-80.tiiny.site/]([https://crimson-grazia-80.tiiny.site/](https://drive.google.com/drive/u/0/my-drive))
 
 - ⚡ Fun fact **Tech Enthusiastic**
 
