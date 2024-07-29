@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pamujula Venkateswara Rao</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-venky&label=Profile%20views&color=0e75b6&style=flat" alt="coder-venky" /> </p>
 
-- 🔭 I’m currently working on [Data Visualization](https://github.com/coder-Venky/Diwali_sale_analysis)
+- 🔭 I’m currently working on [Java And Core Java]
 
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/coder-Venky](https://github.com/coder-Venky)
 
-- 💬 Ask me about **Python,DataScience,Machine Learning, AI**
+- 💬 Ask me about **Java, Core Java , Android Kotlin**
 
 - 📫 How to reach me **venkateswararaopamujula@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1DZnsORAPrQLSggkIDSbQlYHgliG72JPr/view?usp=sharing))
+- 📄 Know about my experiences ([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1Pr5NJVSylVvT7K_dULDfDWLzuKtCLAas/view?usp=sharing))
 
 - ⚡ Fun fact **Tech Enthusiastic**
 
