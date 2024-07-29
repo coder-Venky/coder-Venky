@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Java And Core Java]
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Java And Android-Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/coder-Venky](https://github.com/coder-Venky)
 
