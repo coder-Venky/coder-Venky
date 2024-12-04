@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-venky&label=Profile%20views&color=0e75b6&style=flat" alt="coder-venky" /> </p>
 
-- 🔭 I’m currently working on [Java And Core Java]
+- 🔭 I’m currently working on [Data visualization and Data Science]
 
 - 🌱 I’m currently learning **Java And Android-Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/coder-Venky](https://github.com/coder-Venky)
 
-- 💬 Ask me about **Java, Core Java , Android Kotlin**
+- 💬 Ask me about **Java, Core Java , Python, Data Science**
 
 - 📫 How to reach me **venkateswararaopamujula@gmail.com**
 
