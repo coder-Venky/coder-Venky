@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **venkateswararaopamujula@gmail.com**
 
-- 📄 Know about my experiences ([[https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1Pr5NJVSylVvT7K_dULDfDWLzuKtCLAas/view?usp=sharing)]([https://drive.google.com/file/d/1Pr5NJVSylVvT7K_dULDfDWLzuKtCLAas/view?usp=sharing](https://drive.google.com/file/d/1MX1QBxMTmqq597x1AXF9yAiCj9w8Jv4G/view?usp=sharing)))
+- 📄 Know about my experiences ([[https://drive.google.com/drive/u/0/my-drive]](https://drive.google.com/file/d/1MX1QBxMTmqq597x1AXF9yAiCj9w8Jv4G/view?usp=sharing)
 
 - ⚡ Fun fact **Tech Enthusiastic**
 
