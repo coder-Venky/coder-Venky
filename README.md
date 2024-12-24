@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Data visualization and Data Science]
 
-- 🌱 I’m currently learning **Java And Android-Kotlin**
+- 🌱 I’m currently learning **Data Science, Python, AI, ML, MYSQL, Data Structure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/coder-Venky](https://github.com/coder-Venky)
 
-- 💬 Ask me about **Java, Core Java , Python, Data Science**
+- 💬 Ask me about ** Python, Data Science, MYSQL, Data Structure, AI, ML**
 
 - 📫 How to reach me **venkateswararaopamujula@gmail.com**
 
