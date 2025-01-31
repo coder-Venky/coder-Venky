@@ -11,9 +11,9 @@
 
 - 💬 Ask me about ** Python, Data Science, MYSQL, Data Structure, AI, ML**
 
-- 📫 How to reach me **venkateswararaopamujula@gmail.com**
+- 📫 How to reach me **codervenkateswararao@gmail.com**
 
-- 📄 Know about my experiences ([[https://drive.google.com/drive/u/0/my-drive]](https://drive.google.com/file/d/1MX1QBxMTmqq597x1AXF9yAiCj9w8Jv4G/view?usp=sharing)
+- 📄 Know about my experiences ([[https://drive.google.com/drive/u/0/my-drive]]([https://drive.google.com/file/d/1MX1QBxMTmqq597x1AXF9yAiCj9w8Jv4G/view?usp=sharing](https://drive.google.com/file/d/1-BrP9ncMd-e9YfXTqjp4KMQqkWbONwJ1/view?usp=sharing))
 
 - ⚡ Fun fact **Tech Enthusiastic**
 
