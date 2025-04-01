@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me:
-- 🔬 I’m currently working on **Full Stack Web Development (Java, Spring Boot, React, MySQL)**
+- 🔬 I’m currently working on **Full Stack Web Development (Java, Spring Boot, React, MySQL, Python, Flask, Data Structures)**
 - 🌱 I’m currently learning **Microservices, Docker, Kubernetes & AWS**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/coder-Venky)
-- 💬 Ask me about **Java, Spring Boot, React, REST APIs & Databases**
+- 💬 Ask me about **Java, Spring Boot, React, REST APIs, Python, Flask, Data Structures & Databases**
 - 📧 How to reach me: **codervenkateswararao@gmail.com**
 - 📝 Know about my experiences: [My Resume](https://drive.google.com/file/d/1-BrP9ncMd-e9YfXTqjp4KMQqkWbONwJ1/view?usp=sharing)
 - ✨ Fun fact: **I love solving real-world problems with scalable solutions!**
@@ -28,7 +28,10 @@
 #### **Backend:**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-0078D6?style=for-the-badge&logo=data&logoColor=white)
 
 #### **Database & Tools:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
