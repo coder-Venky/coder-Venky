@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pamujula Venkateswara Rao</h1>
-<h3 align="center">A Passionate Python Developer Interested in Data Science, AI & ML</h3>
+<h3 align="center">A Passionate Full Stack Developer | Java | Spring Boot | React | MySQL</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=coder-venky&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,38 +8,40 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on **Python, AI, ML & Data Science**
-- 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning & Data Structures**
+- 🔬 I’m currently working on **Full Stack Web Development (Java, Spring Boot, React, MySQL)**
+- 🌱 I’m currently learning **Microservices, Docker, Kubernetes & AWS**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/coder-Venky)
-- 💬 Ask me about **Python, AI, ML, Data Science & Data Structures**
-- 📫 How to reach me: **codervenkateswararao@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1-BrP9ncMd-e9YfXTqjp4KMQqkWbONwJ1/view?usp=sharing)
-- ⚡ Fun fact: **Always Curious About AI & Big Data!**
+- 💬 Ask me about **Java, Spring Boot, React, REST APIs & Databases**
+- 📧 How to reach me: **codervenkateswararao@gmail.com**
+- 📝 Know about my experiences: [My Resume](https://drive.google.com/file/d/1-BrP9ncMd-e9YfXTqjp4KMQqkWbONwJ1/view?usp=sharing)
+- ✨ Fun fact: **I love solving real-world problems with scalable solutions!**
 
 ---
 
 ### 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+#### **Frontend:**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **Backend:**
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+#### **Database & Tools:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-0078D6?style=for-the-badge&logo=data&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-venky&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-### 💡 LeetCode Stats:
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mr_lonelyguy?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -56,4 +58,4 @@
 
 ---
 
-✨ **Keep Coding & Keep Learning! 🚀**
+🌟 **Keep Coding & Keep Innovating! 🚀**
