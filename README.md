@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/coder-Venky)
 - 💬 Ask me about **Java, Spring Boot, React, REST APIs, Python, Flask, Data Structures & Databases**
 - 📧 How to reach me: **codervenkateswararao@gmail.com**
-- 📝 Know about my experiences: [My Resume](https://drive.google.com/file/d/1hoXH0VzgpvIAnA7SiMfBT1MY4PB9nnjm/view?usp=sharing)
+- 📝 Know about my experiences: [My Resume](https://drive.google.com/file/d/1yR93GbppMayLI0cNbhJGu2kneSUxM1Xe/view?usp=sharing)
 - ✨ Fun fact: **I love solving real-world problems with scalable solutions!**
 
 ---
